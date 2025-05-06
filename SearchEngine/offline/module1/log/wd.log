@@ -1,0 +1,250 @@
+2025-02-14 11:25:42,461 wd [INFO] [src/DictProducer.cc:buildEnDict:26] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 11:25:43,034 wd [INFO] [src/DictProducer.cc:buildEnDict:41] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 11:25:43,046 wd [INFO] [src/DictProducer.cc:storeEnDict:80] store english dict in file ./data/endict.dat
+2025-02-14 15:01:49,481 wd [INFO] [src/DictProducer.cc:buildEnDict:26] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:01:50,236 wd [INFO] [src/DictProducer.cc:buildEnDict:41] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:01:50,251 wd [INFO] [src/DictProducer.cc:storeEnDict:80] store english dict in file ./data/endict.dat
+2025-02-14 15:32:11,556 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:32:11,558 wd [INFO] [src/DictProducer.cc:buildEnDict:55] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:32:12,276 wd [INFO] [src/DictProducer.cc:buildEnDict:70] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:32:12,294 wd [INFO] [src/DictProducer.cc:storeEnDict:109] store english dict in file ./data/endict.dat
+2025-02-14 15:34:15,016 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:34:15,017 wd [INFO] [src/DictProducer.cc:buildEnDict:55] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:34:15,763 wd [INFO] [src/DictProducer.cc:buildEnDict:70] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:34:15,782 wd [INFO] [src/DictProducer.cc:storeEnDict:109] store english dict in file ./data/endict.dat
+2025-02-14 15:36:25,286 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:36:25,287 wd [INFO] [src/DictProducer.cc:buildEnDict:57] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:36:26,095 wd [INFO] [src/DictProducer.cc:buildEnDict:72] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:36:26,117 wd [INFO] [src/DictProducer.cc:storeEnDict:111] store english dict in file ./data/endict.dat
+2025-02-14 15:38:31,752 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:38:31,753 wd [INFO] [src/DictProducer.cc:buildEnDict:58] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:38:32,567 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:38:32,581 wd [INFO] [src/DictProducer.cc:storeEnDict:112] store english dict in file ./data/endict.dat
+2025-02-14 15:39:25,389 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:42:28,077 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:42:28,077 wd [INFO] [src/DictProducer.cc:buildEnDict:59] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:42:28,794 wd [INFO] [src/DictProducer.cc:buildEnDict:74] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:42:28,809 wd [INFO] [src/DictProducer.cc:storeEnDict:113] store english dict in file ./data/endict.dat
+2025-02-14 15:52:15,623 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:52:15,623 wd [INFO] [src/DictProducer.cc:DictProducer:19] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 15:52:15,624 wd [INFO] [src/DictProducer.cc:buildEnDict:72] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 15:52:16,401 wd [INFO] [src/DictProducer.cc:buildEnDict:87] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 15:52:16,425 wd [INFO] [src/DictProducer.cc:storeEnDict:126] store english dict in file ./data/endict.dat
+2025-02-14 15:52:44,950 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 15:52:44,950 wd [INFO] [src/DictProducer.cc:DictProducer:19] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 16:34:45,249 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 16:34:45,249 wd [INFO] [src/DictProducer.cc:DictProducer:19] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 16:34:45,250 wd [INFO] [src/DictProducer.cc:buildEnDict:72] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 16:34:45,930 wd [INFO] [src/DictProducer.cc:buildEnDict:95] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 16:34:45,951 wd [INFO] [src/DictProducer.cc:storeEnDict:134] store english dict in file ./data/endict.dat
+2025-02-14 16:48:01,545 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 16:48:01,546 wd [INFO] [src/DictProducer.cc:DictProducer:19] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 16:48:01,546 wd [INFO] [src/DictProducer.cc:buildEnDict:72] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 16:48:02,044 wd [INFO] [src/DictProducer.cc:buildEnDict:98] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 16:48:02,054 wd [INFO] [src/DictProducer.cc:storeEnDict:135] store english dict in file ./data/endict.dat
+2025-02-14 17:23:36,555 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 17:23:36,556 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 17:23:36,556 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 17:23:36,995 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 17:23:36,995 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 17:23:37,094 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 17:23:37,108 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 18:49:51,773 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 18:49:51,774 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 18:49:51,774 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 18:49:52,389 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 18:49:52,390 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 18:49:52,498 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 18:49:52,515 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 18:51:15,343 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 18:51:15,344 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:04:02,224 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:04:02,225 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:04:02,226 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 21:04:03,049 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 21:04:03,050 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 21:04:03,163 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 21:04:03,182 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 21:05:19,365 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:05:19,366 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:05:19,366 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 21:05:20,164 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 21:05:20,164 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 21:05:20,262 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 21:05:20,278 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 21:09:02,092 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:09:02,093 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:09:02,093 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 21:09:02,885 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 21:09:02,885 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 21:09:02,985 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 21:09:03,007 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 21:10:24,478 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:10:24,479 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:14:29,690 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:14:53,432 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:16:22,465 wd [INFO] [src/DictProducer.cc:DictProducer:17] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:16:22,466 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:16:22,466 wd [INFO] [src/DictProducer.cc:buildEnDict:73] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 21:16:23,024 wd [INFO] [src/DictProducer.cc:buildEnDict:99] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 21:16:23,024 wd [INFO] [src/DictProducer.cc:buildEnIndex:104] building english index
+2025-02-14 21:16:23,130 wd [INFO] [src/DictProducer.cc:storeEnDict:154] store english dict in file ./data/endict.dat
+2025-02-14 21:16:23,151 wd [INFO] [src/DictProducer.cc:storeEnIndex:181] store english index in file ./data/enindex.dat
+2025-02-14 21:42:58,406 wd [INFO] [src/DictProducer.cc:DictProducer:16] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 21:42:58,407 wd [INFO] [src/DictProducer.cc:DictProducer:19] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 21:43:26,416 wd [INFO] [src/DictProducer.cc:buildEnDict:72] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-14 21:43:26,854 wd [INFO] [src/DictProducer.cc:buildEnDict:98] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-14 21:43:26,855 wd [INFO] [src/DictProducer.cc:buildEnIndex:103] building english index
+2025-02-14 21:43:26,950 wd [INFO] [src/DictProducer.cc:storeEnDict:153] store english dict in file ./data/endict.dat
+2025-02-14 21:43:26,972 wd [INFO] [src/DictProducer.cc:storeEnIndex:180] store english index in file ./data/enindex.dat
+2025-02-14 22:11:23,802 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 22:11:23,802 wd [INFO] [src/DictProducer.cc:DictProducer:23] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 22:11:30,129 wd [INFO] [src/DictProducer.cc:getCnfiles:220] get all chinese file name over
+2025-02-14 22:12:14,848 wd [INFO] [src/DictProducer.cc:DictProducer:20] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 22:12:14,849 wd [INFO] [src/DictProducer.cc:DictProducer:23] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 22:12:14,849 wd [INFO] [src/DictProducer.cc:getCnfiles:220] get all chinese file name over
+2025-02-14 22:59:23,942 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 22:59:23,943 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 22:59:23,944 wd [INFO] [src/DictProducer.cc:getCnfiles:240] get all chinese file name over
+2025-02-14 23:00:43,559 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-14 23:00:43,560 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-14 23:00:43,561 wd [INFO] [src/DictProducer.cc:getCnfiles:241] get all chinese file name over
+2025-02-15 07:35:27,444 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 07:35:27,446 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 07:35:27,448 wd [INFO] [src/DictProducer.cc:getCnfiles:242] get all chinese file name over
+2025-02-15 07:36:53,493 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 07:36:53,494 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 07:36:53,495 wd [INFO] [src/DictProducer.cc:getCnfiles:244] get all chinese file name over
+2025-02-15 07:37:50,417 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 07:37:50,417 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 07:45:00,664 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 07:45:00,664 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 07:45:00,665 wd [INFO] [src/DictProducer.cc:getCnfiles:244] get all chinese file name over
+2025-02-15 08:15:35,124 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:15:35,125 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:15:36,900 wd [INFO] [src/DictProducer.cc:initSplitTool:166] loading cppjieba is over
+2025-02-15 08:15:36,901 wd [INFO] [src/DictProducer.cc:getCnfiles:290] get all chinese file name over
+2025-02-15 08:15:36,914 wd [INFO] [src/DictProducer.cc:buildCnDict:148] spliting chines words is over
+2025-02-15 08:27:44,607 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:27:44,608 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:27:46,333 wd [INFO] [src/DictProducer.cc:initSplitTool:166] loading cppjieba is over
+2025-02-15 08:27:46,334 wd [INFO] [src/DictProducer.cc:getCnfiles:296] get all chinese file name over
+2025-02-15 08:27:46,345 wd [INFO] [src/DictProducer.cc:buildCnDict:148] spliting chines words is over
+2025-02-15 08:35:13,024 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:35:13,025 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:35:14,761 wd [INFO] [src/DictProducer.cc:initSplitTool:166] loading cppjieba is over
+2025-02-15 08:35:14,761 wd [INFO] [src/DictProducer.cc:getCnfiles:296] get all chinese file name over
+2025-02-15 08:35:14,775 wd [INFO] [src/DictProducer.cc:buildCnDict:148] spliting chines words is over
+2025-02-15 08:37:30,689 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:37:30,690 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:37:32,339 wd [INFO] [src/DictProducer.cc:initSplitTool:166] loading cppjieba is over
+2025-02-15 08:37:32,340 wd [INFO] [src/DictProducer.cc:getCnfiles:296] get all chinese file name over
+2025-02-15 08:37:32,350 wd [INFO] [src/DictProducer.cc:buildCnDict:148] spliting chines words is over
+2025-02-15 08:41:28,351 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:41:28,352 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:41:30,045 wd [INFO] [src/DictProducer.cc:initSplitTool:166] loading cppjieba is over
+2025-02-15 08:41:30,046 wd [INFO] [src/DictProducer.cc:getCnfiles:296] get all chinese file name over
+2025-02-15 08:52:23,513 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:52:23,513 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:52:25,204 wd [INFO] [src/DictProducer.cc:initSplitTool:169] loading cppjieba is over
+2025-02-15 08:52:25,204 wd [INFO] [src/DictProducer.cc:getCnfiles:314] get all chinese file name over
+2025-02-15 08:52:25,723 wd [INFO] [src/DictProducer.cc:buildCnDict:148] spliting chines words is over
+2025-02-15 08:53:30,752 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:53:30,753 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:53:32,504 wd [INFO] [src/DictProducer.cc:initSplitTool:170] loading cppjieba is over
+2025-02-15 08:53:32,504 wd [INFO] [src/DictProducer.cc:getCnfiles:315] get all chinese file name over
+2025-02-15 08:53:32,961 wd [INFO] [src/DictProducer.cc:storeCnDict:242] store chinese dict in file ./data/cndict.dat
+2025-02-15 08:53:32,961 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-02-15 08:54:59,466 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:54:59,466 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:55:01,169 wd [INFO] [src/DictProducer.cc:initSplitTool:168] loading cppjieba is over
+2025-02-15 08:55:01,169 wd [INFO] [src/DictProducer.cc:getCnfiles:313] get all chinese file name over
+2025-02-15 08:55:01,701 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-02-15 08:55:01,702 wd [INFO] [src/DictProducer.cc:storeCnDict:240] store chinese dict in file ./data/cndict.dat
+2025-02-15 08:55:58,767 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 08:55:58,768 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 08:56:00,428 wd [INFO] [src/DictProducer.cc:initSplitTool:168] loading cppjieba is over
+2025-02-15 08:56:00,429 wd [INFO] [src/DictProducer.cc:getCnfiles:313] get all chinese file name over
+2025-02-15 08:56:00,936 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-02-15 08:56:00,959 wd [INFO] [src/DictProducer.cc:storeCnDict:240] store chinese dict in file ./data/cndict.dat
+2025-02-15 09:23:07,158 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 09:23:07,159 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 09:23:08,853 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-02-15 09:23:08,853 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-02-15 09:23:09,378 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-02-15 09:23:09,378 wd [INFO] [src/DictProducer.cc:buildCnIndex:154] building chinese index
+2025-02-15 09:23:09,430 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-02-15 09:23:09,439 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-02-15 09:42:06,660 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-02-15 09:42:06,661 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-02-15 09:42:06,662 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-02-15 09:42:07,067 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-02-15 09:42:07,068 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-02-15 09:42:07,140 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-02-15 09:42:07,152 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-02-15 09:42:08,843 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-02-15 09:42:08,844 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-02-15 09:42:09,369 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-02-15 09:42:09,370 wd [INFO] [src/DictProducer.cc:buildCnIndex:154] building chinese index
+2025-02-15 09:42:09,431 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-02-15 09:42:09,443 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-04-06 16:53:24,942 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-04-06 16:53:24,943 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-04-06 16:53:24,944 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-04-06 16:53:25,189 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-04-06 16:53:25,189 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-04-06 16:53:25,249 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-04-06 16:53:25,258 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-04-06 16:53:26,421 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-04-06 16:53:26,421 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-04-06 16:53:26,745 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-04-06 16:53:26,795 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-04-06 16:53:26,804 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-04-06 16:54:20,903 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-04-06 16:54:20,903 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-04-06 16:54:20,904 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-04-06 16:54:21,145 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-04-06 16:54:21,145 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-04-06 16:54:21,205 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-04-06 16:54:21,213 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-04-06 16:54:22,390 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-04-06 16:54:22,390 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-04-06 16:54:22,718 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-04-06 16:54:22,769 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-04-06 16:54:22,779 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-04-06 19:42:19,612 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-04-06 19:42:19,614 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-04-06 19:42:19,614 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-04-06 19:42:19,858 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-04-06 19:42:19,858 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-04-06 19:42:19,917 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-04-06 19:42:19,925 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-04-06 19:42:21,255 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-04-06 19:42:21,255 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-04-06 19:42:21,576 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-04-06 19:42:21,624 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-04-06 19:42:21,632 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-04-15 16:48:42,810 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-04-15 16:48:42,812 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-04-15 16:48:42,813 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-04-15 16:48:43,064 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-04-15 16:48:43,065 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-04-15 16:48:43,125 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-04-15 16:48:43,133 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-04-15 16:48:44,314 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-04-15 16:48:44,315 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-04-15 16:48:44,637 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-04-15 16:48:44,685 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-04-15 16:48:44,694 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat
+2025-04-15 16:50:35,039 wd [INFO] [src/DictProducer.cc:DictProducer:21] loading english stop words, file ./yuliao/stop_words_eng.txt
+2025-04-15 16:50:35,039 wd [INFO] [src/DictProducer.cc:DictProducer:24] loading chinese stop words, file ./yuliao/stop_words_zh.txt
+2025-04-15 16:50:35,039 wd [INFO] [src/DictProducer.cc:buildEnDict:77] reading en_yuliao ./yuliao/The_Holy_Bible.txt
+2025-04-15 16:50:35,282 wd [INFO] [src/DictProducer.cc:buildEnDict:103] reading en_yuliao ./yuliao/The_Holy_Bible.txt is over
+2025-04-15 16:50:35,282 wd [INFO] [src/DictProducer.cc:buildEnIndex:108] building english index
+2025-04-15 16:50:35,345 wd [INFO] [src/DictProducer.cc:storeEnDict:300] store english dict in file ./data/endict.dat
+2025-04-15 16:50:35,353 wd [INFO] [src/DictProducer.cc:storeEnIndex:327] store english index in file ./data/enindex.dat
+2025-04-15 16:50:36,522 wd [INFO] [src/DictProducer.cc:initSplitTool:185] loading cppjieba is over
+2025-04-15 16:50:36,522 wd [INFO] [src/DictProducer.cc:getCnfiles:357] get all chinese file name over
+2025-04-15 16:50:36,852 wd [INFO] [src/DictProducer.cc:buildCnDict:149] spliting chines words is over
+2025-04-15 16:50:36,902 wd [INFO] [src/DictProducer.cc:storeCnDict:257] store chinese dict in file ./data/cndict.dat
+2025-04-15 16:50:36,911 wd [INFO] [src/DictProducer.cc:storeCnIndex:284] store chinese index in file ./data/cnindex.dat

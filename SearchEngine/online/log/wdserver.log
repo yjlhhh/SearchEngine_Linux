@@ -1,0 +1,197 @@
+2025-02-15 15:10:19,203 wd [INFO] [src/SearchEngineServer.cc:onConnection:12] tcp 192.168.30.129:8000 --> 192.168.30.129:43042 has connected.
+2025-02-15 15:11:20,105 wd [INFO] [src/TcpConnection.cc:receivePacket:49] msgid: 1, msglen: 15
+2025-02-15 16:43:13,914 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:46:19,592 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:48:13,816 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:49:08,508 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:49:26,339 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:53:25,673 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-15 16:59:08,603 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 17:55:56,997 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 17:58:47,591 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 17:58:49,751 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:103] loading cppjieba is over
+2025-02-18 17:59:14,824 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:33754 has connected.
+2025-02-18 17:59:25,178 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 6
+2025-02-18 17:59:25,179 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-18 17:59:25,179 wd [INFO] [src/Service.cc:doKeyRecommand:27] doKeyRecommand()
+2025-02-18 17:59:31,811 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:33754 has closed.
+2025-02-18 17:59:51,129 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:45714 has connected.
+2025-02-18 17:59:54,491 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 17:59:54,491 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-18 17:59:54,492 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:00:24,229 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 9
+2025-02-18 18:00:24,229 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序员
+2025-02-18 18:00:24,230 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:00:37,781 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: -1, msglen: -1
+2025-02-18 18:00:37,781 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:45714 has closed.
+2025-02-18 18:02:45,281 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 18:02:48,324 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:103] loading cppjieba is over
+2025-02-18 18:03:05,384 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:51192 has connected.
+2025-02-18 18:03:09,856 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 9
+2025-02-18 18:03:09,857 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序员
+2025-02-18 18:03:09,857 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:04:01,837 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 18:04:04,940 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:103] loading cppjieba is over
+2025-02-18 18:04:19,782 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:40494 has connected.
+2025-02-18 18:04:24,252 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 18:04:24,252 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序
+2025-02-18 18:04:24,253 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:04:57,805 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: -1, msglen: -1
+2025-02-18 18:04:57,805 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:40494 has closed.
+2025-02-18 18:06:06,840 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:52132 has connected.
+2025-02-18 18:06:10,471 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 18:06:10,471 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序
+2025-02-18 18:06:10,471 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:06:30,127 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 18:06:32,958 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:103] loading cppjieba is over
+2025-02-18 18:06:51,993 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:43472 has connected.
+2025-02-18 18:06:56,267 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 18:06:56,267 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序
+2025-02-18 18:06:56,268 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:07:00,742 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 18:07:00,744 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-18 18:07:00,744 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 18:07:10,113 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:43472 has closed.
+2025-02-18 21:00:24,602 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-18 21:00:26,617 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-18 21:00:42,230 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:52914 has connected.
+2025-02-18 21:00:47,421 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-18 21:00:47,422 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序
+2025-02-18 21:00:47,422 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-18 21:06:38,881 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:52914 has closed.
+2025-02-19 20:49:00,206 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-19 20:49:02,200 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-19 20:49:29,930 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:54098 has connected.
+2025-02-19 20:49:38,246 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-19 20:49:38,246 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 政治
+2025-02-19 20:49:38,246 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 20:50:12,962 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 4
+2025-02-19 20:50:12,962 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: exit
+2025-02-19 20:50:12,963 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 20:50:17,257 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 4
+2025-02-19 20:50:17,258 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: quit
+2025-02-19 20:50:17,258 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 20:50:18,855 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: -1, msglen: -1
+2025-02-19 20:50:18,855 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:54098 has closed.
+2025-02-19 20:55:14,407 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-19 20:55:16,388 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-19 20:55:33,776 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:43632 has connected.
+2025-02-19 20:55:37,159 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-19 20:55:37,159 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 政治
+2025-02-19 20:55:37,160 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 20:55:54,805 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: -1, msglen: -1
+2025-02-19 20:55:54,805 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:43632 has closed.
+2025-02-19 21:09:31,658 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-19 21:09:33,847 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-19 21:09:45,671 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:42866 has connected.
+2025-02-19 21:09:48,437 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-19 21:09:48,437 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 政治
+2025-02-19 21:09:48,438 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 21:10:07,976 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:42866 has closed.
+2025-02-19 21:39:31,217 wd [INFO] [src/Dictionary.cc:init:23] loading dict files
+2025-02-19 21:39:33,293 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-19 21:39:42,201 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:59004 has connected.
+2025-02-19 21:39:45,358 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-19 21:39:45,358 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 政治
+2025-02-19 21:39:45,358 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 21:41:12,946 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-19 21:41:12,947 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 程序
+2025-02-19 21:41:12,947 wd [INFO] [src/Service.cc:doWebSearch:39] doWebSearch()
+2025-02-19 21:41:57,705 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:59004 has closed.
+2025-02-20 08:22:07,179 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-02-20 08:22:09,017 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-20 08:25:41,713 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:51966 has connected.
+2025-02-20 08:25:48,387 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 6
+2025-02-20 08:25:48,387 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中共
+2025-02-20 08:25:48,388 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:25:58,210 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:51966 has closed.
+2025-02-20 08:26:35,961 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:41590 has connected.
+2025-02-20 08:26:43,784 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 6
+2025-02-20 08:26:43,784 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-20 08:26:43,785 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:27:00,286 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-20 08:27:00,286 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-20 08:27:00,287 wd [INFO] [src/Service.cc:doWebSearch:38] doWebSearch()
+2025-02-20 08:27:03,202 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:41590 has closed.
+2025-02-20 08:28:50,465 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-02-20 08:28:52,295 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-20 08:28:59,632 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:40972 has connected.
+2025-02-20 08:29:01,596 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 0, msglen: 0
+2025-02-20 08:29:22,391 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:40972 has closed.
+2025-02-20 08:29:24,853 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:41274 has connected.
+2025-02-20 08:29:26,951 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 5
+2025-02-20 08:29:26,952 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: hello
+2025-02-20 08:29:26,952 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:29:58,303 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 5
+2025-02-20 08:29:58,303 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: world
+2025-02-20 08:29:58,303 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:30:16,440 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 6
+2025-02-20 08:30:16,440 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-20 08:30:16,440 wd [INFO] [src/Service.cc:doWebSearch:38] doWebSearch()
+2025-02-20 08:30:26,198 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:41274 has closed.
+2025-02-20 08:35:55,816 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-02-20 08:35:57,644 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-02-20 08:36:05,400 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.30.129:8000 --> 192.168.30.129:55582 has connected.
+2025-02-20 08:36:07,601 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 5
+2025-02-20 08:36:07,601 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: hello
+2025-02-20 08:36:07,602 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:36:15,899 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 6
+2025-02-20 08:36:15,899 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-02-20 08:36:15,899 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-02-20 08:37:30,702 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.30.129:8000 --> 192.168.30.129:55582 has closed.
+2025-04-06 15:29:35,653 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 15:29:36,888 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:44:06,440 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 19:44:07,708 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:54:40,132 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 19:54:41,347 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:55:07,314 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 19:55:08,522 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:55:59,970 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 19:56:01,172 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:57:04,282 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-06 19:57:05,478 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-06 19:57:07,755 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:43478 has connected.
+2025-04-06 19:57:15,499 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 0, msglen: 0
+2025-04-06 19:57:47,211 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:43478 has closed.
+2025-04-06 19:57:49,689 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:38648 has connected.
+2025-04-06 19:57:59,571 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:38648 has closed.
+2025-04-06 19:58:00,805 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:55470 has connected.
+2025-04-06 19:58:06,015 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:55470 has closed.
+2025-04-06 19:58:07,530 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:52070 has connected.
+2025-04-06 19:58:11,046 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 0, msglen: 0
+2025-04-06 19:58:45,486 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:52070 has closed.
+2025-04-15 17:16:37,208 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-15 17:16:38,452 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-15 17:17:08,884 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:49812 has connected.
+2025-04-15 17:17:23,382 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 3
+2025-04-15 17:17:23,382 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: hhh
+2025-04-15 17:17:23,382 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-04-15 17:17:35,049 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 13
+2025-04-15 17:17:35,049 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: www.baidu.com
+2025-04-15 17:17:35,049 wd [INFO] [src/Service.cc:doWebSearch:38] doWebSearch()
+2025-04-15 17:17:48,987 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 3
+2025-04-15 17:17:48,988 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: kkk
+2025-04-15 17:17:48,988 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-04-15 17:17:53,754 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 3
+2025-04-15 17:17:53,755 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: aaa
+2025-04-15 17:17:53,755 wd [INFO] [src/Service.cc:doWebSearch:38] doWebSearch()
+2025-04-15 17:17:58,994 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:49812 has closed.
+2025-04-18 10:42:29,366 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-18 10:42:30,806 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-18 10:42:32,856 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:49052 has connected.
+2025-04-18 10:42:41,372 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 0, msglen: 0
+2025-04-18 10:43:06,740 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:49052 has closed.
+2025-04-18 10:43:17,734 wd [INFO] [src/KeyRecommander.cc:init:30] loading dict files
+2025-04-18 10:43:19,070 wd [INFO] [src/WebPageSearcher.cc:initSplitTool:102] loading cppjieba is over
+2025-04-18 10:43:22,079 wd [INFO] [src/SearchEngineServer.cc:onConnection:8] tcp 192.168.145.136:8000 --> 192.168.145.136:35694 has connected.
+2025-04-18 10:43:27,730 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 3
+2025-04-18 10:43:27,730 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: kkk
+2025-04-18 10:43:27,730 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-04-18 10:44:03,226 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 1, msglen: 6
+2025-04-18 10:44:03,226 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: 中国
+2025-04-18 10:44:03,226 wd [INFO] [src/Service.cc:doKeyRecommand:26] doKeyRecommand()
+2025-04-18 10:44:35,740 wd [INFO] [src/TcpConnection.cc:receivePacket:48] msgid: 2, msglen: 13
+2025-04-18 10:44:35,740 wd [INFO] [src/TcpConnection.cc:receivePacket:52] msgcontent: www.baidu.com
+2025-04-18 10:44:35,741 wd [INFO] [src/Service.cc:doWebSearch:38] doWebSearch()
+2025-04-18 11:01:55,993 wd [INFO] [src/SearchEngineServer.cc:onClose:23] tcp 192.168.145.136:8000 --> 192.168.145.136:35694 has closed.
